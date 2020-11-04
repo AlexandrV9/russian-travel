@@ -1,0 +1,7 @@
+.place__wrapper {
+  margin-right: 40px;
+}
+
+.place__wrapper:last-child {
+  margin-right: 0px;
+}

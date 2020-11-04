@@ -1,0 +1,3 @@
+.page__lead {
+  width: calc(100vw - 148px*2);
+}

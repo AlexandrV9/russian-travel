@@ -1,0 +1,10 @@
+.footer {
+  margin: 0 48px;
+  font-size: 0;
+  max-width: 1184px;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  padding-bottom: 24px;
+  transition: opacity 1s linear 0.7s;
+}

@@ -1,0 +1,8 @@
+.header__row-list-item {
+  text-decoration: none;
+  margin-left: 18px;
+}
+
+.header__row-list-item:first-child {
+  margin-left: 0px;
+}
