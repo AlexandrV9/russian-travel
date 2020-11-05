@@ -1,3 +1,40 @@
 .place__image {
   width: 460px;
 }
+
+@media (max-width: 864px) {
+  .place__image {
+    width: 100%;
+  }
+}
+
+@media (max-width: 768px) {
+  .place__image {
+    width: 340px;
+  }
+}
+
+@media (max-width: 700px) {
+  .place__image {
+    width: 90%;
+  }
+}
+
+
+@media (max-width: 426px) {
+  .place__image {
+    width: 320px;
+  }
+}
+
+@media (max-width: 370px) {
+  .place__image {
+    width: 100%;
+  }
+}
+
+@media (max-width:320px) {
+  .place__image {
+    margin-bottom: 32px;
+  }
+}

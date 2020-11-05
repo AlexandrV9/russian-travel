@@ -33,3 +33,36 @@
 .cover:hover {
   opacity: 0.8;
 }
+
+@media(max-width: 1160px) {
+  .cover {
+    min-height: 640px;
+  }
+}
+
+@media (max-width: 864px) {
+  .cover {
+    height: 480px;
+  }
+}
+
+@media (max-width: 768px) {
+  .cover {
+    min-height: 480px;
+    margin-bottom: 88px;
+  }
+}
+
+
+@media (max-width: 490px) {
+  .cover {
+    height: 320px;
+  }
+}
+
+@media (max-width:320px) {
+  .cover {
+    min-height: 320px;
+    margin-bottom: 64px;
+  }
+}

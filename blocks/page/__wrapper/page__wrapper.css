@@ -4,3 +4,36 @@
   margin: 0 auto;
   width: calc(100vw - 148px*2);
 }
+
+@media(max-width: 1223px) {
+
+  .page__wrapper {
+    width: 928px;
+  }
+}
+
+@media (max-width: 1024px) {
+
+  .page__wrapper {
+    width: calc(100vw - 96px);
+    max-width: 928px;
+  }
+}
+
+@media (max-width: 864px) {
+  .page__wrapper {
+    width: 758px;
+  }
+}
+
+@media (max-width: 768px) {
+  .page__wrapper {
+    width: calc(100vw - 48px);
+  }
+}
+
+@media (max-width:320px) {
+  .page__wrapper {
+    width: calc(100vw - 32px);
+  }
+}

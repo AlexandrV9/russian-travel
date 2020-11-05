@@ -8,3 +8,15 @@
   padding-bottom: 24px;
   transition: opacity 1s linear 0.7s;
 }
+
+@media (max-width: 768px) {
+  .footer {
+    margin: 0 24px;
+  }
+}
+
+@media (max-width: 490px) {
+  .footer {
+    flex-direction: column;
+  }
+}

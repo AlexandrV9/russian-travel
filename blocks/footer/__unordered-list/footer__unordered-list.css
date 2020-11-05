@@ -3,3 +3,16 @@
   list-style-type: none;
   display: flex;
 }
+
+@media (max-width: 656px) {
+  .footer__unordered-list {
+    margin-bottom: 16px;
+  }
+}
+
+@media (max-width: 490px) {
+  .footer__unordered-list {
+    flex-direction: column;
+    margin-bottom: 48px;
+  }
+}

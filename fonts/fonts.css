@@ -11,5 +11,13 @@
   url(../fonts/woff/Inter-Bold.woff)format('woff'),
   url(../fonts/ttf/Inter-Bold.ttf) format('truetype');
   font-family: 'Inter';
+  font-weight: 700;
+}
+
+@font-face {
+  src: url(../fonts/woff2/Inter-Black.woff2)format('woff2'),
+    url(../fonts/woff/Inter-Black.woff)format('woff'),
+    url(../fonts/ttf/Inter-Black.ttf) format('truetype');
+  font-family: 'Inter';
   font-weight: 900;
 }

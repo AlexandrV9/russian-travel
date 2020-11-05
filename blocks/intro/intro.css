@@ -2,3 +2,15 @@
   max-width: 690px;
   margin-bottom: 92px;
 }
+
+@media (max-width: 768px) {
+  .intro {
+    width: 720px;
+  }
+}
+
+@media (max-width: 740px) {
+  .intro {
+    width: 100%;
+  }
+}

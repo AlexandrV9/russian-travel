@@ -9,3 +9,17 @@
   position: relative;
   z-index: 1;
 }
+
+@media (max-width: 520px) {
+  .cover__subtitle {
+    font-size: 16px;
+    line-height: 18px;
+  }
+}
+
+@media (max-width:320px) {
+  .cover__subtitle {
+    font-size: 14px;
+    line-height: 16px;
+  }
+}

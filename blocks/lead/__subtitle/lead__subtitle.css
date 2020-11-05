@@ -8,3 +8,30 @@
   max-width: 640px;
   margin-bottom: 64px;
 }
+
+@media (max-width: 1024px) {
+  .lead__subtitle {
+    margin-bottom: 56px;
+  }
+}
+
+@media (max-width: 768px) {
+  .lead__subtitle {
+    font-size: 2rem;
+    margin-bottom: 56px;
+  }
+}
+
+@media (max-width: 490px) {
+  .lead__subtitle {
+    font-size: 1.5rem;
+  }
+}
+
+@media (max-width:320px) {
+  .lead__subtitle {
+    font-size: 16px;
+    line-height: 20px;
+    margin-bottom: 40px;
+  }
+}
