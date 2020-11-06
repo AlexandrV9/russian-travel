@@ -3,7 +3,7 @@
   margin: 0;
   margin-bottom: 32px;
   font-style: normal;
-  font-weight: bold;
+  font-weight: 900;
   font-size: 72px;
   line-height: 76px;
   text-align: center;
@@ -25,3 +25,5 @@
     margin-bottom: 16px;
   }
 }
+
+

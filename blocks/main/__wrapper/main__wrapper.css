@@ -1,29 +1,29 @@
-.page__lead {
+.main__wrapper {
+  margin: 0 auto;
+  max-width: 984px;
   width: calc(100vw - 148px*2);
 }
 
 @media(max-width: 1223px) {
-
-  .page__lead {
+  .main__wrapper {
     width: 928px;
   }
-
 }
 
 @media (max-width: 1024px) {
-  .page__lead {
+  .main__wrapper {
     width: calc(100vw - 96px);
   }
 }
 
 @media (max-width: 864px) {
-  .page__lead {
+  .main__wrapper {
     width: 758px;
   }
 }
 
 @media (max-width: 768px) {
-  .page__lead {
+  .main__wrapper {
     width: 100vw;
   }
 }

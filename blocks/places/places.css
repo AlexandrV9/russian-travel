@@ -5,6 +5,13 @@
   margin-bottom: 92px;
 }
 
+@media (max-width: 1024px) {
+  .places {
+    margin: 0 48px;
+    margin-bottom: 92px;
+  }
+}
+
 @media (max-width: 768px) {
   .places {
     margin: 0 24px;

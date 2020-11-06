@@ -1,4 +1,4 @@
 .intro__list-item {
   list-style-type: none;
-  font-weight: 400;
+  display: flex;
 }
