@@ -12,6 +12,13 @@
   cursor: pointer;
 }
 
+@media (max-width: 525px) {
+  .footer__link {
+    font-size: 14px;
+    line-height: 16px;
+  }
+}
+
 
 @media (max-width: 490px) {
   .footer__link {

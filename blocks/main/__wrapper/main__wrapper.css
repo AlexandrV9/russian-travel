@@ -22,8 +22,8 @@
   }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 775px) {
   .main__wrapper {
-    width: 100vw;
+    width: 100%;
   }
 }

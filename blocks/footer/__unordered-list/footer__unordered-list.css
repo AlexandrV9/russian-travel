@@ -5,7 +5,7 @@
   display: flex;
 }
 
-@media (max-width: 656px) {
+@media (max-width: 673px) {
   .footer__unordered-list {
     margin-bottom: 16px;
   }
