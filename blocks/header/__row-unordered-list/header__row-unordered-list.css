@@ -1,7 +1,8 @@
 .header__row-unordered-list {
+  align-self: flex-end;
   margin: 0;
   list-style-type: none;
   display: flex;
   padding: 0;
+  padding-bottom: 6px;
 }
-
